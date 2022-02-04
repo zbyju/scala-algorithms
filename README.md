@@ -5,9 +5,13 @@ Implementation of some well-known algorithms and data structures in Scala.
 ## Data Structures
 
 - Math
-    - Rational
+    - Complex Numbers
+    - Rational Numbers
 
 ## Algorithms
+
+- Sort
+    - Merge Sort
 
 ## Usage
 
