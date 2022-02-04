@@ -27,6 +27,9 @@ class Rational(private val n: Int, private val d: Int) {
 }
 
 object Rational {
+    implicit def intToRational(int: Int): Rational = Rational(int, 1)
+    implicit def rationalToDouble(rational: Rational): Double = rational.numerator.toDouble / rational.denumerator
+
     private def gcd(a: Int, b: Int): Int = if(b == 0) a else gcd(b, a % b)
     private def lcd(a: Int, b: Int): Int = a * b / gcd(a, b)
 }
