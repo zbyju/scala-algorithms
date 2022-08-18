@@ -1,17 +1,19 @@
 # Scala Algorithms [![Build Status](https://app.travis-ci.com/zbyju/scala-algorithms.svg?branch=main)](https://app.travis-ci.com/zbyju/scala-algorithms)
 
-Implementation of some well-known algorithms and data structures in Scala. 
+Implementation of some well-known algorithms and data structures in Scala.
 
 ## Data Structures
 
+- Containers
+  - ArrayList (also known as vector/list/array)
 - Math
-    - Complex Numbers
-    - Rational Numbers
+  - Complex Numbers
+  - Rational Numbers
 
 ## Algorithms
 
 - Sort
-    - Merge Sort
+  - Merge Sort
 
 ## Usage
 
