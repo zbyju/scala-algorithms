@@ -4,16 +4,20 @@ Implementation of some well-known algorithms and data structures in Scala.
 
 ## Data Structures
 
-- Containers
-  - ArrayList (also known as vector/list/array)
-- Math
-  - Complex Numbers
-  - Rational Numbers
+### Containers
+
+- **ArrayList** (also known as _vector/list/array_)
+
+### Math
+
+- **Complex Numbers**
+- **Rational Numbers**
 
 ## Algorithms
 
-- Sort
-  - Merge Sort
+### Sort
+
+- **Merge Sort**
 
 ## Usage
 
